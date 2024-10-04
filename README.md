@@ -12,6 +12,6 @@ We will simply execute
 ```bash
 ./execute.sh
 ```
-We expect this shell script to execute without any errors, to avoid any mismatch in python version we suggest you to use latest version of python3.
+We expect this shell script to execute without any errors, to avoid any mismatch in python version we suggest you to use latest version of python3. Sometimes shell commands may differ based on the operating system, so please mention operating system as well where your code is expected to work.
 
 In case if you want to showcase multiple implementations then you can create folders similar to Implementation where naming should followed like this: Implementation_{index} Example: Implementation_1.
