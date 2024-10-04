@@ -11,7 +11,7 @@ We will simply execute
 ```bash
 ./execute.sh
 ```
-We expect this shell script to execute without any errors, to avoid any mismatch in python version we suggest you to use latest version of python3.
+We expect this shell script to execute without any errors, to avoid any mismatch in python version we suggest you to use latest version of python3. Sometimes shell commands may differ based on the operating system, so please mention operating system as well where your code is expected to work.
 
 Also your code should create an output folder inside Implementation_1 directory which again will have four sub folders named player0, player1, player2 and player3. Your code should push images of corresponding players in above listed sub folders.
 
