@@ -17,8 +17,8 @@ Also your code should create an output folder inside Implementation_1 directory 
 
 In case if you want to showcase multiple implementations then you can create folders similar to Implementation where naming should followed like this: Implementation_{index} Example: Implementation_2.
 
-Also try to create one small pdf doc for each Implementation_{index} folder, so that we can check which approach you followed for the given implementation.
+As you are allowed to submit multiple implementations, please do mention in report.pdf as well that which implementation_{index} follow what approach/idea.
 
-Please mention your college id the submission README.md (this file).
+Please mention your college id in the submission README.md (this file).
 
 Also there is a Resume folder where you should place your resume (this is very important).
