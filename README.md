@@ -1,6 +1,8 @@
 
 # Player Classification Project
 
+College ID : IIT2021001@iiita.ac.in
+
 ## Overview
 
 This repository contains code for classifying badminton players based on images. The project is organized into different implementations, each showcasing distinct approaches to player classification.
